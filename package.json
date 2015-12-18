@@ -34,10 +34,8 @@
     "component-raf": "^1.2.0",
     "watchify": "^3.4.0"
   },
-  "optionalDependencies": {
-    "speaker": "*"
-  },
   "dependencies": {
+    "speaker": "partap/node-speaker.git#prebuilt",
     "audio-context": "^0.1.0",
     "audio-element": "^1.0.1",
     "audio-pcm-format": "^1.0.4",
